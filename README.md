@@ -19,7 +19,7 @@ In this exercise I use public data from CitiBike. Due to the amount of data I on
 
 A summary of the results is presented in the form of slides in the file <CitiBike_Results.pptx>. Additionally, the Tableau file <CitiBike_Tableau.twbx> containing the data visualization dashboard is available in this repository.
 
-Some of the findings siggest that while the number of trips by start stations seem to be scattered throughout NYC. The end stations with the most number of trip are concentrated in the Midtown area. 
+Some of the findings suggest that while the number of trips by start stations seem to be scattered throughout NYC. The end stations with the most number of trip are concentrated in the Midtown area. 
 
 Most CitiBike users are male (69%) than female (21%), yet women record slightly higher travel time than men.
 
